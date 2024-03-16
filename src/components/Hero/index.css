@@ -1,0 +1,16 @@
+.main {
+  background: url("https://wallpaperaccess.com/full/5651990.jpg") center/cover
+    no-repeat;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0px;
+  height: 400px;
+}
+.text {
+  font-size: 36px;
+  font-weight: bold;
+}
+.subtext {
+  font-size: 24px;
+  margin-top: 20px;
+}
